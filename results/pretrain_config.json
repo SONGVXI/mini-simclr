@@ -1,0 +1,13 @@
+{
+  "data_dir": "./data",
+  "num_samples": 5000,
+  "batch_size": 128,
+  "feature_dim": 512,
+  "proj_hidden_dim": 512,
+  "proj_output_dim": 128,
+  "epochs": 10,
+  "learning_rate": 0.001,
+  "temperature": 0.5,
+  "device": "cuda",
+  "save_dir": "./results"
+}
